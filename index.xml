@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <StudentData>
-    <student> 
-         <fname>Ali</fname>
-         <lname>Ahmed</lname>
-         <email>aliahmed12@gmail.com</email>
+    <student id="1" xmlns:ali="https://ali.com/mynamespace">  
+         <ali:fname>Ali</ali:fname>
+         <ali:lname>Ahmed</ali:lname>
+         <ali:email>aliahmed12@gmail.com</ali:email>
     </student>
-     <student> 
+     <student id="2" xmlns:header="https://header.com/mynamespace"> 
          <fname>Bilal</fname>
          <lname>Sheikh</lname>
          <email>bilalsheikh12@gmail.com</email>
