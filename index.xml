@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<StudentData>
+    <student> 
+         <fname>Ali</fname>
+         <lname>Ahmed</lname>
+         <email>aliahmed12@gmail.com</email>
+    </student>
+     <student> 
+         <fname>Bilal</fname>
+         <lname>Sheikh</lname>
+         <email>bilalsheikh12@gmail.com</email>
+    </student>
+     <student> 
+         <fname>Rafay</fname>
+         <lname>Shafik</lname>
+         <email>Rafayshafik12@gmail.com</email>
+    </student>
+</StudentData>
