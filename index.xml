@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="Transform.xsl"?>
 
-<StudentData
-  xmlns:ali="http://ali.com/mynamespace"
-  xmlns:header="http://header.com/mynamespace"
-  xmlns:c="http://header.com/mynamespace">
+<StudentData>
     <student id="1" >  
-         <ali:fname>Ali</ali:fname>
-         <ali:lname>Ahmed</ali:lname>
-         <ali:email>aliahmed12@gmail.com</ali:email>
+         <fname>Ali</fname>
+         <lname>Ahmed</lname>
+         <email>aliahmed12@gmail.com</email>
     </student>
      <student id="2" > 
-         <header:fname>Bilal</header:fname>
-         <header:lname>Sheikh</header:lname>
-         <header:email>bilalsheikh12@gmail.com</header:email>
+         <fname>Bilal</fname>
+         <lname>Sheikh</lname>
+         <email>bilalsheikh12@gmail.com</email>
     </student>
      <student id="3"> 
-         <c:fname>Rafay</c:fname>
-         <c:lname>Shafik</c:lname>
-         <c:email>Rafayshafik12@gmail.com</c:email>
+         <fname>Rafay</fname>
+         <lname>Shafik</lname>
+         <email>Rafayshafik12@gmail.com</email>
     </student>
 </StudentData>
